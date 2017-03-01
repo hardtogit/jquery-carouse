@@ -1,5 +1,7 @@
 # jquery-carouse
 this is a simple carouse
+
+
 1.first import js/css file
 
 		<link rel="stylesheet" href="css/styles.css" />
@@ -34,6 +36,6 @@ this is a simple carouse
             <li>却留下一个你</li>
         </ul>
     </div>
-3. third  
-    write 	$('#slideshow').carousel();  in your js file;
+3.third  
+    write  $('#slideshow').carousel();  in your js file;
   
